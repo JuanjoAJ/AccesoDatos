@@ -6,7 +6,7 @@ import com.mongodb.client.MongoDatabase;
 
 public class Entrada {
     public static void main(String[] args) {
-        String connectionString = "mongodb+srv://admin:admin@cluster0.hn3kzia.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+        String connectionString = "mongodbConexion";
         ServerApi serverApi = ServerApi.builder()
                 .version(ServerApiVersion.V1)
                 .build();
