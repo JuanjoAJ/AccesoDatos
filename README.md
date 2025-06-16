@@ -1,6 +1,8 @@
 # ACCESO DE DATOS
 ### Segundo Año DAM - Ejercicios de acceso de datos
 ![](https://github.com/JuanjoAJ/AccesoDatos/blob/main/data%20acces.png)
+
+
 Este repositorio está dedicado a la asignatura de acceso de datos de DAM, es un repositorio con algunos de los ejercicios propuestos durante todo el año en la UEM.
 
 Se divide en los siguientes bloques:
